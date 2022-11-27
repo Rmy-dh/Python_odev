@@ -1,7 +1,7 @@
 # PYTHON TEMEL
 ## Proje 1
 
-[python temel dersi](www.patika.dev)
+[python temel dersi](http://www.patika.dev/)
 * Bu projede aşağıda verilen alıştırmalar yapılmıştır.
 
 Soru 1- Bir listeyi düzleştiren (flatten) fonksiyon yazın. Elemanları birden çok katmanlı listelerden ([[3],2] gibi) oluşabileceği gibi, non-scalar verilerden de oluşabilir. Örnek olarak:
