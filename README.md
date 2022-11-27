@@ -1,6 +1,6 @@
 # PYTHON TEMEL
 ## Proje 1
-*Bu projede aşağıda verilen alıştırmalar yapılmıştır.
+* Bu projede aşağıda verilen alıştırmalar yapılmıştır.
 
 Soru 1- Bir listeyi düzleştiren (flatten) fonksiyon yazın. Elemanları birden çok katmanlı listelerden ([[3],2] gibi) oluşabileceği gibi, non-scalar verilerden de oluşabilir. Örnek olarak:
 
